@@ -3,7 +3,7 @@
 This project is composed of two parts:
 
 Part 1:
-This program prompts the user to enter a series of single-number numbers and calculates the sum of all the numbers in the string.
+This program prompts the user to enter a number greater than 1 and displays all prime numbers less than or equal to the number.  It creates a list of all the numbers between 2 and the number the user entered, and then it loops trough this list checking each number to see if its prime or not (and outputting it if it is).
 
 Part 2:
-This program generates random numbers between 1 to 500, writes them to a file, and displays them to the console.  The user specifies how many random numbers to generate.
+This program takes a dictionary of items and their prices, and displays the top three most expensive items.
